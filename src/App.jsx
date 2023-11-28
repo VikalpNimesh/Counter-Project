@@ -12,7 +12,7 @@ function App() {
 
        
       <div >
-      <h1 className="mb-5">Back-Ground Color Changer</h1>
+      <h1 className="mb-9">Back-Ground Color Changer</h1>
         <button className="m-1 text-black" style={{backgroundColor:'red'}} onClick={()=>setbg("red")}>RED</button>
         <button className="m-1 text-black" style={{backgroundColor:'orange'}} onClick={()=>setbg("orange")}>orange</button>
         <button className="m-1 text-black" style={{backgroundColor:'blue'}} onClick={()=>setbg("blue")}>blue</button>
